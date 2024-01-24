@@ -11,6 +11,6 @@ For any inquiries, feedback, or collaboration opportunities, please contact to {
 2. import csv file named `input.csv` in the same colab project.
     1. there will be one column for each Expert 
     2. F1F3 means influence of F1 on F3
-    3. here is the sample file for 3 expert and 5 factors.[input.csv](https://github.com/suvojit1994/IHRP-Framework/input.csv)
+    3. here is the sample file for 3 expert and 5 factors.[input.csv](./input.csv)
 3. Run the code and you will see a `solution.txt` file as output file.
 
